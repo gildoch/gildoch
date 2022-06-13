@@ -4,9 +4,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gildoch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gildoch&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  </div>
   
- 
-  <div align="center">
+  ##
+  <div align="right"></div>
+  <div align="center"></div>
+  <div align="left">
      <h4>👀 I’m interested in Web and Android Development</h4>
      <h4>🌱 I’m currently learning Full Stack Web Development (HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY, JAVA, C#)</h4>
       <div style="display: inline_block"><br>
@@ -28,7 +31,6 @@
     <img align="center" alt="Gch-mongodb" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
     <img align="center" alt="Gch-mysqlserver" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
       </div>
-  </div>
   
  ##
  
