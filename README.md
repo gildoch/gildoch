@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/gildoch/gildoch">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=gildoch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gildoch&layout=compact&langs_count=20&theme=dark"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=gildoch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gildoch&layout=compact&langs_count=20&theme=dark"/>
 </div>
   </div>
   
