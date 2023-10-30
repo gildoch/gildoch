@@ -8,8 +8,8 @@
   </div>
   
   ##
-  <h4>👀 I’m interested in Web and Android Development</h4>
-  <h4>🌱 I’m currently learning Full Stack Web Development (HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY, JAVA, C#)</h4>
+  <h4>👀 I’m interested in Web Development</h4>
+  <h4>🌱 I’m currently learning Full Stack Web Development</h4>
   <br />
   <div align="center" style="text-align:center">
       <img alt="Gch-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
